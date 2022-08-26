@@ -1,0 +1,128 @@
+.single-input{
+    width: 443px;
+    height: 45px;
+    border:1px solid #00DAB0;
+    display: flex;
+    margin: auto;
+    margin-bottom: 15px;
+    text-align: center;
+    align-items: center;
+    border-radius: 7px;
+}
+.single-input input{
+    border:0px solid #c1c1c1;
+    width: 100%;
+    outline: none;
+    height: 25px;
+    font-size: 15px;
+    padding: 0 0 0 20px;
+  }
+
+.single-input span{
+    padding: 0 0 0 20px;
+    
+  }
+#showpass{
+    padding: 0 15px;
+}
+.green{
+    color: #00DAB0;
+}
+.left-margin{
+    margin-left: 140px;
+    /* margin: auto; */
+    width: 443px;
+}
+.red-border{
+    border:1px solid #EB4335;
+    color: #EB4335;
+    border-radius: 18px;
+}
+.green-border{
+    background-color: #00DAB0;
+    color: white;
+    border-radius: 18px;
+}
+
+.white-border{
+    background-color: #F7F9FC;
+    color: white;
+    border-radius: 18px;
+}
+.btn{
+    border-radius: 20px;
+    background-color: #00DAB0;
+    margin: auto;
+    /* text-align: center;
+    align-items: center; */
+}
+.create{
+    color: aqua;
+}
+
+.register-form{
+    width: 443px;
+    height: 45px;
+    border:1px solid black;
+    display: flex;
+    margin: auto;
+    margin-bottom: 15px;
+    text-align: center;
+    align-items: center;
+    border-radius: 4px;
+}
+
+.company-name{
+    border: 2px solid #00DAB0;
+    border-radius: 8px;
+}
+.container {
+    display: flex;
+    align-items: center;
+    margin-top: 45px;
+  }
+.container img {
+    max-width: 100%;
+  
+    background-image: url(../image/Rectangle\ 50.png);
+    background-repeat: no-repeat;
+    background-size: 400px 40px;
+  }
+
+  .text {
+    font-size: 20px;
+  }
+.back-icon{
+    color: white;
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin: 5px;
+    
+}
+.imageComponent{
+    margin-top: 60px;
+    background-image: url(../image/Rectangle1.png);
+    background-repeat: no-repeat;
+
+}
+
+
+.parent{
+    text-align: center;
+    margin-top: 60px;
+    height: 136px;
+}
+.child{
+    display: inline-block;
+    /* vertical-align: middle; */
+    width: 207px;
+}
+
+.green-btn{
+    background-color: #00DAB0;
+    color: white;
+}

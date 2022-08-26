@@ -1,0 +1,453 @@
+#right{
+    margin-left: 400px;
+}
+#appbar{
+    height: 70px;
+    background-color: black;
+}
+#appbar img {
+    margin-left: 100px;
+}
+.component-body{
+    background-image: url(../image/landingpage-background.png);
+    width: 100%;
+}
+/* #appbar button{
+    border: none;
+    background: none;
+    color: white;
+    font-size: 14px;
+    padding: 10px;
+} */
+.component1-btn{
+    border: none;
+    background: none;
+    color: white;
+    font-size: 14px;
+    margin-right: 0px;
+    /* padding: 10px; */
+}
+#left{
+    margin-left: 100px;
+}
+#signup{
+    /* margin-left: 10px; */
+    border-radius: 15px;
+    background-color: #1de9b6;
+}
+#component1-btn-home{
+    color: #1de9b6;
+    background: none;
+    font-size: 14px;
+}
+#component1-btn-signup{
+    border: 2px solid #00DAB0;
+    background-color: #3cd4b6;
+    color: white;
+    font-size: 13px;
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    margin-left: 25px;
+    /* text-color: #1de9b6; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#component1-btn-signup span{
+    /* text-align: center; */
+    align-items: center;
+}
+
+.component2{
+    margin-left: 100px;
+    margin-top: 105px;
+    width: 443px;
+}
+.component2 h1{
+    margin-top: 10px;
+}
+.component2 p{
+    margin-top: 0px;
+}
+
+.component2-input{
+    width: 443px;
+    height: 45px;
+    border:1px solid #00DAB0;
+    display: flex;
+    margin: auto;
+    margin-bottom: 15px;
+    text-align: center;
+    align-items: center;
+    border-radius: 7px;
+}
+.login-btn{
+    color: white;
+    background-color: #00DAB0;
+    width: 443px;
+    height: 48px;
+    border: none;
+    border-radius: 100px;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-btn span{
+    margin-right: 10px;
+}
+.google-btn{
+    color: #EB4335;
+    width: 443px;
+    height: 48px;
+    border: none;
+    border: 2px solid #EB4335;
+    background-color: white;
+    display: flex;
+    border-radius: 100px;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+}
+.or-btn{
+    border: none;
+    background-color: white;
+    font-size: 18px;
+}
+.create-link{
+    text-align: center;
+}
+.forgot-link{
+    text-align: end;
+}
+.forgot-link a{
+    color: black;
+    text-decoration: none;
+}
+.component2-image1{
+    position: relative;
+    left: 80px;
+    top: 90px;
+}
+.component2-image2{
+    position: absolute;
+    left: 910px;
+    top: 70px;
+}
+.component2-image3{
+    position: absolute;
+    left: 1050px;
+    top: 90px;
+}
+.component2-image4{
+    position: absolute;
+    left: 760px;
+    top: 472px;
+}
+.component2-image5{
+    position: absolute;
+    left: 910px;
+    top: 340px;
+}
+.component2-image6{
+    position: absolute;
+    left: 1050px;
+    top: 472px;
+}
+.component2-image7{
+    position: absolute;
+    left: 760px;
+    top: 48px;
+}
+.component2-image8{
+    position: absolute;
+    left: 908px;
+    top: 70px;
+}
+.component2-image9{
+    position: absolute;
+    left: 1050px;
+    top: 90px;}
+.component2-image10{
+    position: absolute;
+    left: 773px;
+    top: 553px;
+}
+.component2-image11{
+    position: absolute;
+    left: 930px;
+    top: 412px;
+}
+.component2-image12{
+    position: absolute;
+    left: 1050px;
+    top: 472px;
+}
+#component4-background-image{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+#component4-image1{
+    position: absolute;
+    top: 50px;
+    left: 930px;
+}
+#component4-image2{
+    position: absolute;
+    top: 150px;
+    left: 1180px;
+}
+#component4-image3{
+    position: absolute;
+    top: 205px;
+    left: 810px;
+}
+#component4-image4{
+    position: absolute;
+    top: 280px;
+    left: 1040px;
+}
+#component4-image5{
+    position: absolute;
+    top: 408px;
+    left: 1280px;
+}
+#component4-image6{
+    position: absolute;
+    top: 393px;
+    left: 880px;
+}
+#component4-textbody{
+    position: relative;
+    top: -50px;
+}
+#component4-textbody h1{
+    font-size: 30px;
+}
+#component4-textbody p{
+    font-size: 16px;
+}
+#component4-textbody button{
+    background-color: #00DAB0;
+    width: 140px;
+    height: 50px;
+    border-radius: 7px;
+    border: none;
+    color: white;
+    font-size: 16px;
+    margin-top: 35px;
+}
+#component4-image8{
+    position: relative;
+    top: 35px;
+    left: 35px;
+}
+
+
+/* ................................................................................Component 3 */
+.component3{
+    margin-top: 180px;
+    margin-bottom: 50px;
+}
+
+
+
+.component3-leftcomponent{
+    margin-left: 105px;
+    background-image: url(../image/Rectangle16.png);
+}
+.component3-leftcomponent-text {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#component3-rightcomponent button{
+    border: 2px solid #6C757D;
+    height: 40px;
+    margin: 5px;
+    margin-right: 10px;
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+.component3-rightbtn{
+    border: 2px solid #6C757D;
+    height: 40px;
+    margin: 5px;
+    margin-right: 10px;
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+/* .................................................................................Component 5  */
+.component5-text{
+    text-align: center;
+    
+}
+/* .component5{
+    margin-left: 105px;
+    
+} */
+.component5-card{
+    margin-top: 50px;
+    margin-left: 105px;
+}
+.component5-card CardMedia{
+    background-image: url(../image/Ellipse1.png);
+}
+
+/* ................................................................................ component 6 */
+
+.component6{
+    /* margin-top: 212px; */
+    background-image: url(../image/landingpage-background.png);
+}
+.container{
+ position: relative;
+ /* text-align: center; */
+ /* color: white;    */
+}
+.container-body{
+    position: absolute;
+    top: 60px;
+    left: 100px;
+}
+.container-body span{
+    color: #00DAB0;
+}
+.container-body button{
+    border: 2px solid #6C757D;
+    height: 40px;
+    margin: 5px;
+    margin-right: 10px;
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    font-size: 14px;
+}
+.image1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.image2{
+    position: absolute;
+    top: 0px;
+    left: 736px;
+}
+#component6-eng-btn{
+    color: #00DAB0;
+    border: 2px solid #00DAB0 ;
+}
+/* ...........................................................................component 7 */
+.component7{
+    margin-top: 470px;
+}
+.component7-body{
+    margin-left: 105px;
+    
+}
+
+
+#form-single-input{
+    margin-top: 15px;
+    height: 75px;
+    width: 692px;
+    border-radius: 5px;
+    border: 2px solid #E1E1E1;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 5px;
+}
+.component7-body button{
+    border-radius: 50px;
+    width: 270px;
+    height: 50px;
+    margin-top: 25px;
+    border: #00DAB0;
+    font-size: 16px;
+    color: white;
+    background-color: #00DAB0;
+}
+.component7-form input{
+    margin-top: 15px;
+    height: 45px;
+    width: 322px;
+    border-radius: 5px;
+    border: 2px solid #E1E1E1;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 5px;
+}
+.component7-container{
+    position: relative;
+    top: 30px;
+    left: 80px;
+}
+.component7-container-text{
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: white;
+    width:370px
+}
+.component7-container img{
+    background-color: #00DAB0;
+    position: relative;
+    top: 0px;
+    left: 0px;
+   
+}
+.component7-container button{
+    position: absolute;
+    top: 240px;
+    left: 25px;
+    width: 320px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid black;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #00DAB0;
+}
+.component7-container button span{
+    margin-right: 10px;
+}
+
+/* ..........................................................................Component 8  */
+.component8-container{
+    margin-top: 50px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.component8-body{
+    position: absolute;
+    left: 105px;
+    top: 55px;
+}
+#component8-logo{
+    position: absolute;
+    left: 465px;
+
+}
+#footer-links{
+    margin-top: 55px;
+}
+#footer-links li{
+    padding: 8px;
+    margin-left: -10px;
+}
+#component8-line{
+    margin-left: 100px;
+}
+#copyright{
+    text-align: center;
+}
+

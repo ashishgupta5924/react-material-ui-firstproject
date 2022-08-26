@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+// import Login from './pages/login/Login.js'
+// import CreateUser from './pages/create_user/CreateUser.js';
+// import CreateOption from './pages/create_option/CreateOption.js';
+// import LandingPage from './pages/landingpage/landingpage.js';
+import HomePage2 from './pages/home_page2/homePage2.js';
+// import UserProfile from './pages/user_profile/userProfile.js';
+// import  Register from './pages/register_company/Register.js';
+// import './App.css';
+// import './App.css'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <LandingPage /> */}
+      {/* <Login/> */}
+      {/* <CreateUser/> */}
+      {/* <Register/> */}
+      {/* <CreateOption/> */}
+      <HomePage2/>
+      {/* <UserProfile/> */}
     </div>
   );
 }

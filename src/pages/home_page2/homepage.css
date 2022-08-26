@@ -1,0 +1,240 @@
+.homepage2{
+    margin-left: 98px;
+    margin-top: 28px;
+    display: flex;
+    justify-content: space-between;
+}
+.container1{
+    
+    width: 270px;
+    height: 264px;
+    border: 0.5px solid #CBD3E7;
+    position: relative;
+    text-align: center;
+}
+.container1-img1{
+    width: 270px;
+    height: 85px;
+    
+}
+.container1-img2{
+    width: 54px;
+    height: 54px;
+    position: absolute;
+    top: 57px;
+    left: 103px;
+}
+.container1 p{
+
+    padding: 20px;
+
+    font-size: 12px;
+
+    border-bottom: 1px solid #CBD3E7 ;
+    border-inline-width: 240px;
+    
+}
+.container1 button{
+    border: none;
+    background: none;
+    font-size: 14px;
+}
+.container1-box1{
+    margin-top: 15px;
+    padding: 15px;
+    width: 240px;
+    height: 123px;
+    border: 0.5px solid #CBD3E7;
+}
+.container1-box1 .number{
+    border: 1px solid #CBD3E7;
+    padding-left:7px ;
+    width: 24px;
+    height: 21px;
+    background-color: #CBD3E7;
+}
+.container1-box2{
+    width: 240px;
+    height: 72px;
+    padding: 15px;
+    margin-top: 15px;
+    border: 0.5px solid #CBD3E7;
+}
+.container1-box2 {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+/* ..................................................................middle component  */
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #CBD3E7;
+    height: 70px;
+    width: 570px;
+    border-radius: 5px;
+}
+.container2 input{
+    border-radius: 5px;
+    border: 1px solid #CBD3E7;
+    width: 485px;
+    height: 40px;
+    margin-left: 15px;
+    padding-left: 20px;
+    background-color: #F9FCFE;
+}
+
+.container3 {
+    /* width:100%; */
+    /* height:auto; */
+    /* padding:8px; */
+}
+.iconDetails {
+    /* margin-left:2%; */
+   float:left; 
+   height:45px;
+   width:45px; 
+} 
+.container3 h4 {
+    margin:0px;
+    margin-left: 60px;
+}
+.container3a{
+    width:100%;
+    height:auto;
+    padding:1%;
+}
+.likeDetails {
+    /* margin-left:2%; */
+   float:left; 
+   
+} 
+.container3b{
+    margin-top: 30px;
+    padding: 5px;
+    border-top: 0.5px solid #CBD3E7;
+
+    display: flex;
+    justify-content: space-evenly;
+}
+.container3b button{
+    border: none;
+    background: none;   
+}
+.container3c{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding-bottom: 15px;
+    border-bottom: 0.5px solid #CBD3E7;
+}
+.container3c input{
+    width: 740px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 14px;
+    margin-left: 15px;
+    border: 1px solid #CBD3E7;
+    padding-left: 15px;
+    background-color: #F6FAFE;
+}
+.container3c button{
+    border: none;
+    background: none;
+    height: 40px;
+    width: 40px;
+}
+.homepage-comment-box{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+
+    height: 49px;
+    width: 490px;
+    float: right;
+    background: #F6FAFE;
+    border: 1px solid #CBD3E7;
+}
+.homepage-comment-box p{
+    margin-bottom: 20px;
+}
+.homepage-comment-box button{
+    border: none;
+    background: none;
+}
+.container3d{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding-bottom: 15px;
+    border-bottom: 0.5px solid #CBD3E7;
+}
+.container3d input{
+    width: 740px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 14px;
+    margin-left: 15px;
+    border: 1px solid #CBD3E7;
+    padding-left: 15px;
+    background-color: #F6FAFE;
+}
+.viewcomments-btn {
+    text-align: center;
+}
+.viewcomments-btn button{
+    margin-top: 70px;
+    border: none;
+    color: #00DAB0;
+    background: none;
+    font-size: 14px;
+    font-weight: 500;
+}
+.viewcomments-btn2{
+    margin-top: 140px;
+    border-top: 1px solid #CBD3E7;
+    text-align: center;
+
+}
+.viewcomments-btn2 button{
+    margin-top: 30px;
+    border: none;
+    background: none;
+    font-size: 16px;
+    color: #00DAB0;
+}
+
+#card{
+    width: 318px;
+    height: 341px;
+    position: absolute;
+    left: 1000px;
+    top: 70px;
+}
+.card-box1{
+    width: 288px;
+    padding-bottom: 15px;
+    height: 40px;
+    margin-top: 23px;
+    border-bottom: 1px solid #CBD3E7;
+}
+.card-box1-btn{
+    font-size: 9px;
+    margin-top: 10px;
+    margin-left: 55px;
+    width: 72px;
+    height: 24px;
+    border-radius: 50px;
+    border: 1px solid #00DAB0;
+    background: #ccf3eb;
+
+}
+.card-copyright{
+    text-align: center;
+    color: #6C757D;
+    border-top: 1px solid #CBD3E7;
+    padding-top: -10px;
+}

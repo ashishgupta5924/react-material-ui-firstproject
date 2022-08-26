@@ -1,0 +1,50 @@
+<div className="left-margin">
+                    <div className="container">
+                            <div className="image">
+                                <span className="back-icon"><KeyboardBackspaceIcon/></span>
+                            </div>
+                            <div className="text">
+                                <h3>Back to login</h3>
+                            </div>
+                    </div>
+                    <div>
+                        <div className='create-account'>
+                            <h2>Create an <span className="green " >account</span><img width='50' height='25'  src={headarrow} alt=''/></h2>
+                            <p>Please select your role to proceed a next step</p>
+                        </div>
+                    </div>
+                    <div className='parent'>
+                        <div className='child left' >
+                            <Box
+                                sx={{
+                                    width: 207,
+                                    height: 136,
+                                    border:'2px solid #00DAB0' ,
+                                    borderRadius:2
+                                }}
+                                ><div className='box-container'>
+                                    <div className='box-logo'><span className='green'><PermIdentityIcon/></span></div>
+                                    <div className='box-text'><span className='green'>User</span></div>
+                                </div>
+                                </Box>
+                        </div>
+                        <div className='child ' >
+                            <Box
+                                sx={{
+                                    width: 207,
+                                    height: 136,
+                                    border:'2px solid #CBD3E7' ,
+                                    borderRadius:2
+                                }}
+                                ><div className='box-container'>
+                                    <div className='box-logo'><span><BusinessIcon/></span></div>
+                                    <div className='box-text'><span>Company</span></div>
+                                </div>
+                                </Box>
+                        </div>
+                    </div>
+                    <div className='next-btn'>
+                        <button  className="green-btn" id="register-btn">Next<span className=''><ArrowRightAltIcon/> </span></button>
+                        
+                    </div>
+                </div>

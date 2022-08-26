@@ -1,0 +1,59 @@
+.box-container{
+    /* display: flex; */
+    align-items: center;
+    display: block;
+    /* margin: auto; */
+    margin-top: 45px;
+    text-align: center;
+    /* background-color: black; */
+}
+.box-container img{}
+.box-logo{
+    
+    background-image: url(../image/Ellipse1.png);
+    /* background-color: aqua; */
+    background-repeat: no-repeat;
+    /* background-size: 65; */
+}
+.green-btn{
+    background-color: #00DAB0;
+    color: white;
+    border-radius: 25px;
+}
+.parent{
+    text-align: center;
+    margin-top: 60px;
+    height: 136px;
+}
+.child{
+    display: inline-block;
+    /* vertical-align: middle; */
+    width: 207px;
+}
+.left{
+    margin-right: 20px;
+    
+}
+.container{
+    margin-top: 45px;
+}
+.create-account{
+    margin-top: 40px;
+}
+.next-btn{
+    margin-top: 45px;
+    
+}
+#register-btn{
+    margin-top: 15px;
+    width: 443px;
+    height: 45px;
+    border:#00DAB0;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#register-btn span{
+    margin-right: 10px;
+}

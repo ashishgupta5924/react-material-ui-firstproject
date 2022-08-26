@@ -1,0 +1,19 @@
+<div>
+                                    <div>
+                                        <h1>Harry Weish</h1>
+                                        <p style={{color: '#6C757D'}}>Denver, CEO </p>
+                                        <p><span><PlaceIcon width='14px' height='17px' />Akshay Nagar 1st Block 1st Cross, Rammurthy nagar, Bangalore</span></p>
+                                    </div>
+                                    {/* <img id='image4' src={image4} alt='' width={840}/> */}
+                                    <p style={{color: '#6C757D'}}>About me</p>
+                                    <p>The designer used a grid layout in the layout of his about page . Contamporary colors inform you
+                                    of the designer's style,while a status message of his availability to take on new projects makes it clear 
+                                    to prospective clients whether he's available or not....</p>
+                                    {/* <img src={image4} alt='' width={840} height='1px'/> */}
+                                    <AvatarGroup max={4}>
+                                        <Avatar alt="Remy Sharp" src="../image/man12.png" />
+                                        <Avatar alt="Travis Howard" src="/static/images/avatar/2.jpg" />
+                                        <Avatar alt="Cindy Baker" src="/static/images/avatar/3.jpg" />
+                                    </AvatarGroup>
+                                                                    
+                                </div>

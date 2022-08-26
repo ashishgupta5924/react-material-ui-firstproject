@@ -1,0 +1,59 @@
+.first-image{
+    position: relative;
+    left: 0;
+    top: 0;
+    /* width: 25%; */
+}
+.second-image{
+    position: absolute;
+    /* width: 45%; */
+    top: 50px;
+    left: 730px;
+
+}
+.third-image{
+    position: absolute;
+    top: 193px;
+    left: 850px;
+}
+.forth-image{
+    position: absolute;
+    top: 345px;
+    left: 1090px;
+}
+.fifth-image{
+    position: absolute;
+    top: 500px;
+    left: 810px;
+}
+.sixth-image{
+    position: absolute;
+    top: 250px;
+    left: 845px;
+}
+.forth-text{
+    position: absolute;
+    top: 515px;
+    left: 1165px;
+}
+.first-text{
+    position: absolute;
+    top: 60px;
+    left: 900px;
+}
+.second-text{
+    position: absolute;
+    top: 360px;
+    left: 810px;
+}
+.third-text{
+    position: absolute;
+    top: 360px;
+    left: 990px;
+}
+.left-child{
+    margin-top: 55px;
+}
+.right-child{
+    margin-top: 23px;
+}

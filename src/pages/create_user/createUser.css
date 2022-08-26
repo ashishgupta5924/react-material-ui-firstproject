@@ -1,0 +1,43 @@
+.create-btn{
+    color: white;
+    background-color: #00DAB0;
+    width: 224px;
+    height: 48px;
+    border: none;
+    border-radius: 100px;
+}
+.prev-btn{
+    background-color: #F7F9FC;
+    width: 130px;
+    height: 48px;
+    border: 2px solid #CBD3E7;
+    border-radius: 100px;
+    display: flex;
+    margin: auto;
+    justify-items: center;
+    align-items: center;
+    
+}
+.prev-btn span{
+    font-size: 16px;
+    padding: 20;
+    margin-left: 6px;
+}
+.create-btn span{
+    font-size: 16px;
+}
+
+#btn{
+    margin-top: 30px;
+}
+#input{
+    margin-top: 30px;
+}
+#input .single-input{
+    border-radius: 15px;
+    font-size: 4px;
+}
+
+#logo{
+    margin-left: 5px;
+}

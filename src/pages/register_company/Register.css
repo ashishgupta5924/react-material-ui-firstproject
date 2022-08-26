@@ -1,0 +1,52 @@
+.container{
+    margin-top: 5px;
+    /* margin-bottom: 0; */
+}
+#register-body{
+    margin-top: 0;
+}
+.register-form input{
+    border:0px solid #c1c1c1;
+    width: 100%;
+    outline: none;
+    height: 25px;
+    font-size: 15px;
+    padding: 0 0 0 15px;
+  }
+.register-border{
+    border: 2px solid #DDDDDD;
+    border-radius: 8px;
+}
+#two-left{
+    width: 200px;
+    height: 45px;
+    /* margin-bottom: 15; */
+    font-size: 15px;
+    border: 2px solid #DDDDDD;
+    border-radius: 8px;
+}
+#two-right{
+    width: 200px;
+    font-size: 15px;
+    height: 45px;
+    margin-left: 26px;
+    /* margin-bottom: 15; */
+    border: 2px solid #DDDDDD;
+    border-radius: 8px;
+}
+#two-upper-left{
+    width: 214px;
+    height: 45px;
+    /* margin-bottom: 15px; */
+    font-size: 15px;
+}
+
+#two-upper-right{
+    width: 214px;
+    height: 45px;
+    margin: 0 0 15px 15px;
+    font-size: 15px;
+}
+.condition{
+    font-size: 12px;
+}
